@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * **Carnegie Mellon University, Pittsburgh** 
-  * MS in Intelliget Information Systems (MIIS), Aug 2021 - 2022 Dec (expected)
+  * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022 (expected)
 * **National Institute of Technology Karnataka (NITK) Surathkal, India**
   * B-Tech in Information Technology, 2013 - 2017
 
 Work experience
 ======
-* **Intuit**
+* **Intuit : _Aug 2017 - Aug 2021_**
   * _**Senior Software Engineer**_
     * Established integration patterns for connecting to third-party CRM applications from QuickBooks Online that brought down the development time from 2 quarters to 2 sprints.
     
@@ -31,12 +31,12 @@ Work experience
     * Migrated the legacy credit card processing application in QuickBooks Desktop to a modern JavaScript-based solution. This application sees a charge volume of 250M USD a Year.
     * Built a workflow that enables QuickBooks Desktop payments customers to set up OAuth 2 identities using invitation AND request access workflows.
 
-* **Indian Institute of Technology Bombay**
+* **Indian Institute of Technology Bombay : _Aug 2016 - Dec 2016_**
   * _**Research Intern**_
     * Designed and developed an Information Retrieval System for Hindi capable of handling poorly articulated queries
     * Designed a hierarchical weighted taxonomy for the Hindi language and integrated it with the IR System.
   
-* **Intuit**
+* **Intuit : _May 2016 - Jul 2016_**
   * _**Software Engineering Intern**_
     * Automated multi-threaded data synchronization workflow in QuickBooks Desktop using C# NUnit framework to bring down the testing time from 3 days to 1 hour
 
