@@ -33,12 +33,12 @@ Work experience
 
 * **Indian Institute of Technology Bombay : _Aug 2016 - Dec 2016_**
   * _**Research Intern**_
-    * Designed and developed an Information Retrieval System for Hindi capable of handling poorly articulated queries
+    * Designed and developed an Information Retrieval System for Hindi capable of handling poorly articulated queries.
     * Designed a hierarchical weighted taxonomy for the Hindi language and integrated it with the IR System.
   
 * **Intuit : _May 2016 - Jul 2016_**
   * _**Software Engineering Intern**_
-    * Automated multi-threaded data synchronization workflow in QuickBooks Desktop using C# NUnit framework to bring down the testing time from 3 days to 1 hour
+    * Automated multi-threaded data synchronization workflow in QuickBooks Desktop using C# NUnit framework to bring down the testing time from 3 days to 1 hour.
 
 Skills
 ======
@@ -49,6 +49,6 @@ Skills
 
 Activities and Achievements
 ======
-* Conducted Intuit wide sessions on "Web Performance Optimization" and "Keyboard accessibility in web applications".
+* Conducted Intuit wide sessions on **Web Performance Optimization** and **Keyboard accessibility in web applications**.
 * Work on **Getting Keyboard Shortcuts Right for Web Applications** was selected for presentation at CSUN Assistive Technology Conference 2020, Anaheim USA.
 * Received JASSO Scholarship from the Japanese government.
