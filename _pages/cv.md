@@ -21,6 +21,7 @@ Work experience
 * **Intuit : _Aug 2017 - Aug 2021_**
   * _**Senior Software Engineer**_
     * Established integration patterns for connecting to third-party CRM applications from QuickBooks Online that brought down the development time from 2 quarters to 2 sprints.
+    * Improved the resiliency of the premium-app integration pipeline in QBO Advanced by performing FMEA, incorporating automation, and building fallback mechanisms in case of failures.
     
   * _**Software Engineer 2**_
     * Designed and built an end-to-end DATA-IN pipeline for Salesforce integration with QuickBooks Online Advanced without any production escapes.
