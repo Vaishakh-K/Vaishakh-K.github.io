@@ -9,7 +9,7 @@ author_profile: true
   In: Sa P., Bakshi S., Hatzilygeroudis I., Sahoo M. (eds) Recent Findings in Intelligent Computing Techniques. Advances in Intelligent Systems and Computing, vol 707. Springer, Singapore [Paper](https://link.springer.com/chapter/10.1007/978-981-10-8639-7_19)
 
 * **Constructing an enriched domain taxonomy for hindi using word embeddings** \
-  **V. Keshava**, P. Avvara, S. S. Kamath and V. Geetha \
+  **V. Keshava**, P. Avvaru, S. S. Kamath and V. Geetha \
   2017 International Conference on Asian Language Processing (IALP), Singapore, 2017, pp. 127-130. doi: 10.1109/IALP.2017.8300562 [Paper](https://ieeexplore.ieee.org/document/8300562/)
 
 * **A Morphological Approach for Measuring Pair-Wise Semantic Similarity of Sanskrit Sentences** \
