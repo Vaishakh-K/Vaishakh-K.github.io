@@ -14,7 +14,7 @@ Education
 * **Carnegie Mellon University, Pittsburgh** 
   * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022 (expected)
   * Courses:
-    * Ongoing: Introduction to Machine Learning, Advanced NLP, Search Engines
+    * Completed: Introduction to Machine Learning (10601), Advanced NLP (11711), Search Engines (11642), Introduction to Deep Learning (11785), Multimodal Machine Learning (11777), Machine Learning for Large Datasets (10605) 
 * **National Institute of Technology Karnataka (NITK) Surathkal, India**
   * B-Tech in Information Technology, 2013 - 2017
 
