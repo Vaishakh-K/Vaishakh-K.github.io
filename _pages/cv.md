@@ -14,12 +14,17 @@ Education
 * **Carnegie Mellon University, Pittsburgh** 
   * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022 (expected)
   * Courses:
-    * Completed: Introduction to Machine Learning (10601), Advanced NLP (11711), Search Engines (11642), Introduction to Deep Learning (11785), Multimodal Machine Learning (11777), Machine Learning for Large Datasets (10605) 
+    * Completed: Machine Learning (10601), Advanced NLP (11711), Search Engines (11642), Deep Learning (11785), Multimodal Machine Learning (11777), Machine Learning for Large Datasets (10605) 
 * **National Institute of Technology Karnataka (NITK) Surathkal, India**
   * B-Tech in Information Technology, 2013 - 2017
 
 Work experience
 ======
+* **Google : _May 2022 - Aug 2022_**
+  * _**Software Engineering Intern (Applied ML) - Google Cloud AI**_
+    * Productized training and serving of character-level transformer model at scale for classification tasks in Document AI.
+    * Analyzed the model and model serving framework to propose recommendations that resulted in a 5X speed-up in inference time.
+
 * **Intuit : _Aug 2017 - Aug 2021_**
   * _**Senior Software Engineer**_
     * Established integration patterns for connecting to third-party CRM applications from QuickBooks Online that brought down the development time from 2 quarters to 2 sprints.
@@ -46,9 +51,11 @@ Work experience
 Skills
 ======
 * Programming
-  * JavaScript, Python, Java, C, C++
+  * Python, Java, C, C++, JavaScript
+* Domains
+  * Machine Learning, Deep Learning, NLP, Search, Information Retrieval, Full-stack Software Development
 * Technologies/Frameworks
-  * React, GraphQL, MySql, Git, Camunda, Splunk
+  * PyTorch, TensorFlow, PySpark, React, REST, GraphQL, MySql, Git, Splunk, AWS, GCP, Docker, Camunda
 
 Activities and Achievements
 ======
