@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /links
 ---
-
-{% include base_path %}
 ## Download
 **[Vaishakh's Resume](https://drive.google.com/file/d/1ufOosYNYDld3oW9veoaTaEBnt1a4wGqQ/view?usp=sharing)**
 
