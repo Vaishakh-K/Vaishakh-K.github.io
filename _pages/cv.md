@@ -15,6 +15,7 @@ Education
   * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022 (expected)
   * Courses:
     * Completed: Machine Learning (10601), Advanced NLP (11711), Search Engines (11642), Deep Learning (11785), Multimodal Machine Learning (11777), Machine Learning for Large Datasets (10605) 
+    * Ongoing: Computer Vision (16720)
 * **National Institute of Technology Karnataka (NITK) Surathkal, India**
   * B-Tech in Information Technology, 2013 - 2017
 
@@ -22,13 +23,20 @@ Work experience
 ======
 * **Google : _May 2022 - Aug 2022_**
   * _**Software Engineering Intern (Applied ML) - Google Cloud AI**_
-    * Productized training and serving of character-level transformer model at scale for classification tasks in Document AI.
-    * Analyzed the model and model serving framework to propose recommendations that resulted in a 5X speed-up in inference time.
+    * Productized the training and serving of character-level transformer model at scale for classification tasks in Document AI.
+    * Built ML infrastructure and pipeline for training and serving JAX models in Document AI solution of Google Cloud.
+    * Optimized the model serving and achieved a 5X speed-up in inference time, thus meeting the customer specified QPS.
+
+* **Carnegie Mellon University : _Aug 2021 - Nov 2021_**
+  * _**Research Assistant - Amazon Alexa Prize Challenge**_
+    * Member of CMU team for the 2021 Amazon Alexa Prize TaskBot Challenge. One of the 10 teams selected worldwide by Amazon.
+    * Designed the result re-ranking module for the TaskBot which handles ‘Recipes’ and ‘How Do I?’ tasks.
 
 * **Intuit : _Aug 2017 - Aug 2021_**
   * _**Senior Software Engineer**_
     * Established integration patterns for connecting to third-party CRM applications from QuickBooks Online that brought down the development time from 2 quarters to 2 sprints.
     * Improved the resiliency of the premium-app integration pipeline in QBO Advanced by performing FMEA, incorporating automation, and building fallback mechanisms in case of failures.
+    * During the 4 years at Intuit, I partnered with the recruitment team and interviewed about 100 candidates, involved in technical branding by conducting 5 tech workshops, hosted 3 summer interns, and mentored 7 junior engineers.
     
   * _**Software Engineer 2**_
     * Designed and built an end-to-end DATA-IN pipeline for Salesforce integration with QuickBooks Online Advanced without any production escapes.
@@ -37,7 +45,7 @@ Work experience
     
   * _**Software Engineer 1**_
     * Migrated the legacy credit card processing application in QuickBooks Desktop to a modern JavaScript-based solution. This application sees a charge volume of 250M USD a Year.
-    * Built a workflow that enables QuickBooks Desktop payments customers to set up OAuth 2 identities using invitation AND request access workflows.
+    * Built a workflow that enables QuickBooks Desktop payments customers to set up OAuth 2 identities using invitation and request access workflows.
 
 * **Indian Institute of Technology Bombay : _Aug 2016 - Dec 2016_**
   * _**Research Intern**_
@@ -53,12 +61,13 @@ Skills
 * Programming
   * Python, Java, C, C++, JavaScript
 * Domains
-  * Machine Learning, Deep Learning, NLP, Search, Information Retrieval, Full-stack Software Development
+  * Machine Learning, Deep Learning, NLP, Search, Information Retrieval, Full-stack Software Development, Web Performance.
 * Technologies/Frameworks
   * PyTorch, TensorFlow, PySpark, React, REST, GraphQL, MySql, Git, Splunk, AWS, GCP, Docker, Camunda
 
 Activities and Achievements
 ======
-* Conducted Intuit wide sessions on **Web Performance Optimization** and **Keyboard accessibility in web applications**.
+* Conducted technical sessions on **Web Performance Optimization** and **Keyboard accessibility in Web Applications**.
+* Conducted workshops on **Machine Learning**, **Amazon Web Services**, **Web Development using React and GraphQL** for university students.
 * Work on **Getting Keyboard Shortcuts Right for Web Applications** was selected for presentation at CSUN Assistive Technology Conference 2020, Anaheim USA.
 * Received JASSO Scholarship from the Japanese government.
