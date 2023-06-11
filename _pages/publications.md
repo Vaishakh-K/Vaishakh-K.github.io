@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Multi-Dimensional Evaluation of Text Summarization with In-Context Learning**\
+  Sameer Jain, **Vaishakh Keshava**, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou \
+  To appear in ACL Findings, 2023 [Paper](https://arxiv.org/abs/2306.01200)
 * **Constructing an enriched domain taxonomy for hindi using word embeddings** \
   **V. Keshava**, P. Avvaru, S. S. Kamath and V. Geetha \
   2017 International Conference on Asian Language Processing (IALP), Singapore, 2017, pp. 127-130. doi: 10.1109/IALP.2017.8300562 [Paper](https://ieeexplore.ieee.org/document/8300562/)

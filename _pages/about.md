@@ -8,14 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Vaishakh Keshava, a second-year master’s student from the School of Computer Science, Carnegie Mellon University. I am an experienced professional with 4 years of experience designing and developing scalable software solutions. 
+I am Vaishakh Keshava, a recent graduate from the School of Computer Science, Carnegie Mellon University. My area of specialization is Machine Learning, Deep Learning, Natural Language Processing, and Information Retrieval. 
 
-My area of specialization is Machine Learning, Deep Learning, Natural Language Processing, Information Retrieval, and Full-stack Software Development. I am passionate about building scalable and reliable intelligent systems which are end-user-ready, while not compromising on engineering and operational excellence.
+I currently work as a Machine Learning Engineer at JPMorgan Chase, where my focus revolves around Natural Language Processing. Before this, I  worked as Senior Software Engineer at Intuit and as a Machine Learning Intern at Google.
 
-My area of research is Neural Information Retrieval and NLP. I have been working with Prof. Jamie Callan on building contextualized document term representations using deep contextual language models that improve the efficiency and effectiveness of a neural information retrieval system. 
-
-This summer, I interned at Google Cloud AI, where I worked on productizing training and serving a Character-level transformer model for classification use cases within Document AI.
-
-Before grad school, I worked as a Senior Software Engineer at Intuit. During my stint at Intuit, I have led critical projects end-to-end right from ideation and planning to production.
-
-I am graduating in December 2022 and looking out for full-time opportunities in the field of ML / NLP / Search.
+My area of research includes neural information retrieval and NLP. I worked with [Prof. Jamie Callan](http://www.cs.cmu.edu/~callan/) on building contextualized document term representations using deep contextual language models that improve the efficiency and effectiveness of a neural information retrieval system. One of my recent works with [Prof. Graham Neubig](http://www.phontron.com/) involves building a multi-dimensional evaluation framework for evaluating NLG using the in-context learning ability of LLM.
