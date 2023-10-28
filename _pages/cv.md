@@ -26,7 +26,10 @@ Education
 
 Work experience
 ======
-* **JPMogran Chase : _Feb 2023 - Present_**
+* **Google : _Aug 2023 - Present_**
+  * _**Machine Learning Engineer**_
+
+* **JPMogran Chase : _Feb 2023 - Aug 2023_**
   * _**Machine Learning Engineer**_
     
 * **Google : _May 2022 - Aug 2022_**
