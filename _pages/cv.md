@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Carnegie Mellon University, Pittsburgh** 
-  * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022 (expected)
+  * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022
   * Courses:
     * Machine Learning (10601)
     * Advanced NLP (11711)
