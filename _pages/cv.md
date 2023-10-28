@@ -31,6 +31,8 @@ Work experience
 
 * **JPMogran Chase : _Feb 2023 - Aug 2023_**
   * _**Machine Learning Engineer**_
+    * Designed and productized a multi-document question-answering system that leverages the in-context learning ability of LLMs.
+    * Incorporated frameworks to evaluate and verify the consistency of system output through prompting and self-consistency checkers.
     
 * **Google : _May 2022 - Aug 2022_**
   * _**Machine Learning Engineer Intern (Applied ML) - Google Cloud AI**_
